@@ -13,3 +13,9 @@ alias lpws='ls -l;pwd;whoami;sl'
 
 ## 実は
 こっちでできます
+
+## 20260626
+今日も京都手linux
+
+検索するコマンド
+find . -type d -name ".git"
