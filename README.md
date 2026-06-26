@@ -1,6 +1,7 @@
 
 #my-linux-tools
 
+## 20260619
 Linuxの授業で作成した自作コマンド集です
 
 ## showpath
