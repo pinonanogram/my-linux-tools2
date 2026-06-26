@@ -20,3 +20,7 @@ alias lpws='ls -l;pwd;whoami;sl'
 
 検索するコマンド
 find . -type d -name ".git"
+
+gitの基礎的なコマンドの復習をしたぜ
+プロセスをキルするときはkillだぜ、強制終了はkill -9だぜ
+まあメモをちゃんと見るんだぜ
